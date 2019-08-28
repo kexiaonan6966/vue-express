@@ -1,2 +1,2 @@
 # vue-express
-基于vue和node、mongodb的小demo
+基于vue和node.js、mongodb的小demo
