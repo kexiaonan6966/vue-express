@@ -1,0 +1,51 @@
+[
+    {
+        "title": "热门",
+        "name": "后羿",
+        "icon": "http://127.0.0.1:5500/src/assets/img/hero.jpg"
+        
+      },
+      {
+        "title": "战士",
+        "name": "曹操",
+        "icon": "http://127.0.0.1:5500/src/assets/img/hero_cc.jpg"
+        
+      },
+      {
+        "title": "法师",
+        "name": "貂蝉",
+        "icon": "http://127.0.0.1:5500/src/assets/img/hero_dc.jpg"
+
+
+        
+      },
+      {
+        "title": "坦克",
+        "name": "廉颇",
+        "icon": "http://127.0.0.1:5500/src/assets/img/hero_lp.jpg"
+
+        
+      },
+      {
+        "title": "刺客",
+        "name": "荆轲",
+        "icon": "http://127.0.0.1:5500/src/assets/img/hero_jk.jpg"
+
+        
+      },
+      {
+        "title": "射手",
+        "name": "孙尚香",
+        "icon": "http://127.0.0.1:5500/src/assets/img/hero_ssx.jpg"
+
+        
+      },
+      {
+        "title": "辅助",
+        "name": "蔡文姬",
+        "icon": "http://127.0.0.1:5500/src/assets/img/hero_cwj.jpg"
+
+        
+      }
+     
+]

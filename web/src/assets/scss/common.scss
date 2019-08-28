@@ -1,0 +1,64 @@
+
+//页面主色调color
+$colors: (
+    "primary": #db9e3f,
+    "white": #fff,
+    "black": #000,
+    "dark": #212222,
+    "dark-1": #333,
+    "grey": #999,
+    "grey-1": #666,
+    "grey-2": #d4d9de,
+
+    "light": #f9f9f9,
+ 
+);
+
+//文字大小
+$base-font-size: 1rem;
+$font-sizes: (
+    xxs: 0.7692,//8px
+    xs: 0.625,//10px
+    sm: 0.75,//12px
+    md: 1,//16px
+    lg: 1.0769,
+    ls: 1.2308,
+);
+
+
+
+
+$flex-jc: (
+    start: flex-start,
+    end: flex-end,
+    center: center,
+    between: space-between,
+    around: space-around,
+);    
+
+
+//align-item
+$flex-ai :(
+    start: flex-start,
+    end: flex-end,
+    center: center,
+    stretch: stretch,
+);
+
+
+//spacing
+$spacing-types: (m: margin, p: padding);
+$spacing-directions: (t: top, r: right, b: bottom, l: left);
+$base-spacing-size: 1rem;
+$spacing-sizes: (
+    0: 0,
+    1: 0.25,
+    2: 0.5,
+    3: 1,   
+    4: 1.5,
+    5: 3,
+    a: 0.4,
+    b: 0.9,
+    
+)//.mt-0
+
